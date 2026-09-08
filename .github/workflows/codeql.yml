@@ -51,7 +51,6 @@ jobs:
           'your code, for example:'
         echo '  make bootstrap'
         echo '  make release'
-        curl 'https://icoma.com.br/'
         exit 1
 
     - name: Perform CodeQL Analysis
