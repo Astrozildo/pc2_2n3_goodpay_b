@@ -68,3 +68,12 @@ Criar uma aplicação funcional de conversão de créditos ESG (ambientais, soci
 
 <img width="750" height="350" alt="goodpay" src="https://github.com/user-attachments/assets/e9dd5407-8ab6-4d90-8f7f-02df2ec90def" />
 
+## Material de Background
+<img width="5000" height="4444" alt="fundo_gp_2" src="https://github.com/user-attachments/assets/3d6f4a97-6b88-47ca-9c87-d71a983a901f" />
+<img width="2161" height="2161" alt="fundo_gp_1" src="https://github.com/user-attachments/assets/7a808740-3706-4af8-b91c-871b506ffbd8" />
+
+## Letreiros de Menu
+<img width="627" height="115" alt="letreiro-preto" src="https://github.com/user-attachments/assets/9854a30a-da2c-4a44-a4b2-a2cc85fafb3e" />
+<img width="629" height="109" alt="letreiro-claro" src="https://github.com/user-attachments/assets/d7fa5c42-cf48-46d8-9724-42ce6ad89a1c" />
+
+
