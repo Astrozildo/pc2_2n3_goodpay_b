@@ -43,8 +43,10 @@ Criar uma aplicação funcional de conversão de créditos ESG (ambientais, soci
 ## 📁 Estrutura de Pastas
 
 
-
+## Logo Classico
 ![GoodPay](https://user-images.githubusercontent.com/31005408/178034510-400bc31a-2829-4584-b5e3-fbb78c8fc3e3.png)
+## Logo Claro
+<img width="500" height="500" alt="logo_claro" src="https://github.com/user-attachments/assets/6e1e478e-d344-43d9-8432-b4c493acf8bb" />
 
 ## Tecnologias
 [![Generic badge](https://img.shields.io/badge/FRONTDEV-BOOTSTRAP-<COLOR>.svg)](https://shields.io/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Generic badge](https://img.shields.io/badge/SOULCODE-RN1-<COLOR>.svg)](https://shields.io/) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
