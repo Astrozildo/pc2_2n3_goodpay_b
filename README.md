@@ -102,3 +102,9 @@ Abaixo estão os nove textos desenvolvidos para as campanhas, todos ajustados pa
 | **9. Vida Real** | **Equilíbrio Financeiro para a Vida Real** | Na correria do dia a dia, equilibrar os pratos da vida pessoal, profissional e financeira é um grande desafio. O aplicativo GoodPay surge como o assistente ideal para a vida real, conectando você às melhores práticas de gestão do dinheiro na palma da sua mão. Com recursos rápidos, interface amigável e dicas personalizadas, ele simplifica o complexo mundo das finanças. Alcance a harmonia perfeita entre poupar para o futuro e desfrutar do agora. Baixe o aplicativo, organize-se e veja como é fácil e prático conquistar sua tão sonhada paz. | 545 | 
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_w6mp88w6mp88w6mp" src="https://github.com/user-attachments/assets/67172bcd-d566-4808-aa42-1b8e573ca001" />
+
+## Texto Adicional:
+                                            O GoodPay oferece uma variedade de promoções exclusivas para seus usuários,
+                                            incluindo descontos em parceiros selecionados, cashback em compras e
+                                            sorteios mensais. Fique atento às nossas campanhas sazonais e aproveite
+                                            ao máximo os benefícios que o GoodPay tem a oferecer.
