@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name": "Caio",
+        "email": "caio@hotmail",
+        "password": "123456" 
+    },
+
+    {
+        "id":2,
+        "name": "Vitor Artrax",
+        "email": "VitorArtrax@hotmail",
+        "password": "442266" 
+    },
+
+    {
+        "id":3,
+        "name": "Marcos",
+        "email": "marcos@hotmail",
+        "password": "112233" 
+    },
+
+    {
+        "id":4,
+        "name": "Felipe",
+        "email": "felipesilva@hotmail",
+        "password": "333333" 
+    }
+]
