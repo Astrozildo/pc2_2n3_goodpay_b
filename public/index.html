@@ -122,20 +122,16 @@
                                     aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body bg-dark">
-                                <div class="input-group bg">
+                                <div class="input-group mb-3">
                                     <span class="input-group-text" id="inputGroup-sizing-default">E-mail</span>
-                                    <input type="email" class="form-control" aria-label="Sizing example input"
-                                        aria-describedby="inputGroup-sizing-default" id="email-login">
-                                </div>
-                                <br>
-                                <div class="input-group">
+                                    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" id="emailLogin">
+                                  </div>
+                                <div class="input-group mb-3">
                                     <span class="input-group-text" id="inputGroup-sizing-default">Password</span>
-                                    <input type="password" class="form-control" aria-label="Sizing example input"
-                                        aria-describedby="inputGroup-sizing-default" id="senha-login">
-                                </div>
-                                <br>
+                                    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" id="senhaLogin">
+                                  </div>
                                 <div class="d-grid gap-2">
-                                    <button class="btn btn-success" type="button">Entrar</button>
+                                    <button class="btn btn-success" type="button" onclick="intializeLogin()">Entrar</button>
                                     <button type="button" class="btn btn-outline-success">Cadastrar</button>
                                 </div>
                             </div>
@@ -470,7 +466,7 @@
                     </section>
     </main>
     <footer>
-        <script>src = "./engine/index.js"</script>
+        <script src = "./engine/index.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
             integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
             crossorigin="anonymous"></script>
